@@ -1,4 +1,4 @@
-title: Food Image Classifier
+title: Mo food Project
 description: Classify Food Image Using Deep Learning
 about:
 
@@ -16,7 +16,7 @@ about:
   Source code can be found in this repository [deploying-web-app](https://github.com/reshamas/deploying-web-app).
 
 
-code: https://github.com/reshamas/deploying-web-app.git
+code: https://github.com/Malhabib/mo-food-proj.git
 
 image_size: 224
 top_k: 5
